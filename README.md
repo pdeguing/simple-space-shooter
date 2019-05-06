@@ -11,4 +11,6 @@ make
 ./ft_retro
 ```
 
+## Screenshot
+
 ![Screenshot](./capture.png)
